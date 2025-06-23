@@ -1,4 +1,4 @@
-# 📈 Data Analysis Assignment – Xuefei Wang
+# 📈 Employee Performance Analysis and Prediction
 
 This project presents a comprehensive data analysis of an anonymous dataset as part of an individual academic assignment. It explores the impact of demographic, behavioral, and attitudinal factors on a binary target variable through exploratory analysis, hypothesis testing, and machine learning modeling.
 
