@@ -62,7 +62,7 @@ This project explores the impact of demographic, behavioral, and attitudinal fac
 ## 🚀 How to Run
 
 # Clone the repository
-git clone [https://github.com/your-username/individual-assignment-analysis.git](https://github.com/xuefeiwang001/People-Analytics-Projects.git) <br>
+git clone (https://github.com/xuefeiwang001/People-Analytics-Projects.git)](https://github.com/xuefeiwang001/People-Analytics-Projects.git) <br>
 cd People-Analytics-Projects
 
 # Install required packages
