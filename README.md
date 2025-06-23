@@ -1,6 +1,6 @@
 # 📈 Employee Performance Analysis and Prediction
 
-This project presents a comprehensive data analysis of an anonymous dataset as part of an individual academic assignment. It explores the impact of demographic, behavioral, and attitudinal factors on a binary target variable through exploratory analysis, hypothesis testing, and machine learning modeling.
+This project explores the impact of demographic, behavioral, and attitudinal factors on a binary target variable through exploratory analysis, hypothesis testing, and machine learning modeling.
 
 📓 Notebook: [`Employee Performance Analysis and prediction.py`](https://github.com/xuefeiwang001/People-Analytics-Projects/blob/42a7ed19a88fded4ce868589126c3052dc59ec46/Employee%20Performance%20Analysis%20and%20prediction.py)
 
